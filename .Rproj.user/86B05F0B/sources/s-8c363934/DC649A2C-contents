@@ -7,3 +7,5 @@ notes/ - notatniki RMD
 data/ - dane przetworzone
 data-raw/ - dane źródłowe
 results/ - save results
+
+Więcej na 
