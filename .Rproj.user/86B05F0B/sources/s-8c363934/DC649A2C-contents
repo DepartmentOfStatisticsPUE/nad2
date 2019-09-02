@@ -6,3 +6,4 @@ codes/ - skrypty r
 notes/ - notatniki RMD
 data/ - dane przetworzone
 data-raw/ - dane źródłowe
+results/ - save results
